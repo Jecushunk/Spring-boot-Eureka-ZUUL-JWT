@@ -5,5 +5,16 @@ Spring boot micro-service integration with Eureka service discovery and Zuul .
 2) Zuul Service (for Routing and Load Balancing)
 3) Hello Service (Private Network Service)
 
-
+# Microservice Architecture
 ![Untitled Diagram](https://user-images.githubusercontent.com/48378439/62411049-89305200-b5ee-11e9-8378-242d082fb2f4.png)
+
+Technology Used: 
+- Intellij
+- Spring Boot
+- JWT
+- Spring Security
+- Spring Data
+- Hibernate
+- Eureka 
+- ZUUL
+- Postman
